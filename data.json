@@ -4,8 +4,8 @@
       "id": 1,
       "username": "junedshaikh",
       "fullName": "Juned Shaikh",
-      "profilePhoto": "https://yourimageurl.com/photo.jpg",
       "bio": "Angular & .Net Developer | FullStack Developer",
+      "quote": "Coding is not just a profession, it's a passion that fuels my creativity and drives me to build innovative solutions.",
 
       "contact": {
         "email": "sjuneds128@gmail.com",
@@ -17,7 +17,7 @@
         "degree": "B.Tech Information Technology",
         "graduationYear": 2023,
         "gpa": 8.5,
-        "percentage":86,
+        "percentage":85,
         "achievements": ["University 8th Rank holder"]
       },
       "social": {
