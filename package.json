@@ -4,14 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "json-server --host 0.0.0.0 --port 10000 db.json"
+    "start": "npx json-server --host 0.0.0.0 --port $PORT db.json"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "json-server": "^1.0.0-beta.9"
+    "json-server": "0.17.4"
   }
 }
