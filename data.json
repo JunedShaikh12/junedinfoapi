@@ -3,67 +3,54 @@
     {
       "id": 1,
       "username": "junedshaikh",
-      "full_name": "Juned Shaikh",
-      "profile_photo": "https://yourimageurl.com/photo.jpg",
+      "fullName": "Juned Shaikh",
+      "profilePhoto": "https://yourimageurl.com/photo.jpg",
       "bio": "Angular & .Net Developer | FullStack Developer",
-      "email": "sjuneds128@gmail.com",
-      "phone": "+91-8806616157",
-      "location": "India",
-      "portfolio_website": "",
-      "github_url": "https://github.com/junedshaikh12",
-      "linkedin_url": "",
-      "twitter_url": "",
-      "instagram_url": "https://instagram.com/kaif_juned",
-      "youtube_url": "",
-      "skills": [
-        { "id": 1, "name": "Angular" },
-        { "id": 2, "name": "JavaScript" },
-        { "id": 3, "name": "TypeScript" }
-      ],
-      "programming_languages": [
-        { "id": 1, "name": "JavaScript" },
-        { "id": 2, "name": "TypeScript" },
-        { "id": 3, "name": "C#" }
-      ],
-      "frameworks": [
-        { "id": 1, "name": "Angular" },
-        { "id": 2, "name": "React" },
-        { "id": 3, "name": ".NET" }
-      ],
-      "tools": [
-        { "id": 1, "name": "Git" },
-        { "id": 2, "name": "VS Code" },
-        { "id": 3, "name": "Docker" }
-      ],
-      "experience_years": 2,
-      "current_company": "",
+
+      "contact": {
+        "email": "sjuneds128@gmail.com",
+        "phone": "+91-8806616157",
+        "location": "India"
+      },
+      "college": {
+        "name": "DR. J . J. Magdum College of Engineering, Jaysingpur",
+        "degree": "B.Tech Information Technology",
+        "graduationYear": 2023,
+        "gpa": 8.5,
+        "percentage":86,
+        "achievements": ["University 8th Rank holder"]
+      },
+      "social": {
+        "github": "https://github.com/junedshaikh12",
+        "instagram": "https://instagram.com/kaif_juned",
+        "linkedin": "https://www.linkedin.com/in/juned-shaikh-b430a6270",
+        "twitter": "",
+        "youtube": "https://www.youtube.com/@junedshaikh1201",
+        "portfolio": ""
+      },
+
+      "skills": ["Angular", "React", "JavaScript", "TypeScript"],
+      "programmingLanguages": ["JavaScript", "TypeScript", "C#"],
+      "frameworks": ["Angular", "React", ".NET"],
+      "tools": ["Git", "VS Code", "Docker"],
+
+      "experienceYears": 2.5,
+      "currentCompany": "Nihilent Technologies",
       "education": "B.Tech Information Technology",
-      "certifications": [
-        { "id": 1, "name": "Angular Certification" },
-        { "id": 2, "name": ".NET Certification" }
-      ],
-      "projects": [
-        { "id": 1, "name": "E-commerce App" },
-        { "id": 2, "name": "Parking System" }
-      ],
-      "achievements": [
-        { "id": 1, "name": "Employee of the Month" }
-      ],
-      "hobbies": [
-        { "id": 1, "name": "Coding" },
-        { "id": 2, "name": "Traveling" },
-        { "id": 3, "name": "Gaming" }
-      ],
-      "availability_for_hire": true,
-      "resume_url": "",
-      "preferred_work_type": "Remote / Hybrid",
-      "languages_spoken": [
-        { "id": 1, "name": "English" },
-        { "id": 2, "name": "Hindi" },
-        { "id": 3, "name": "Marathi" },
-        { "id": 4, "name": "German" }
-      ],
-      "created_at": "2026-02-24"
+
+      "certifications": ["Angular Certification", ".NET Certification"],
+      "projects": ["E-commerce App", "Parking System", "Portfolio Website", "Workout Tracker"],
+      "achievements": ["Employee of the Month"],
+      "hobbies": ["Coding", "Traveling", "Gaming", "Reading", "Bike Riding"],
+
+      "availabilityForHire": true,
+      "resumeUrl": "",
+      "preferredWorkType": "Remote / Hybrid",
+
+      "languagesSpoken": ["English", "Hindi", "Marathi", "German", "Arebic"],
+
+      "createdAt": "2026-02-24"
+
     }
   ]
 }
