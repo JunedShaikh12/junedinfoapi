@@ -1,56 +1,142 @@
-{
-  "users": [
-    {
+[
+  {
+    "personalInfo": {
       "id": 1,
       "username": "junedshaikh",
       "fullName": "Juned Shaikh",
-      "bio": "Angular & .Net Developer | FullStack Developer",
+      "title": "Full Stack Developer (Angular & .NET)",
+      "bio": "Passionate Full Stack Developer with 2.5+ years of experience building scalable web applications using Angular and .NET.",
       "quote": "Coding is not just a profession, it's a passion that fuels my creativity and drives me to build innovative solutions.",
-
-      "contact": {
-        "email": "sjuneds128@gmail.com",
-        "phone": "+91-8806616157",
-        "location": "India"
-      },
-      "college": {
-        "name": "DR. J . J. Magdum College of Engineering, Jaysingpur",
-        "degree": "B.Tech Information Technology",
-        "graduationYear": 2023,
-        "gpa": 8.5,
-        "percentage":85,
-        "achievements": ["University 8th Rank holder"]
-      },
-      "social": {
-        "github": "https://github.com/junedshaikh12",
-        "instagram": "https://instagram.com/kaif_juned",
-        "linkedin": "https://www.linkedin.com/in/juned-shaikh-b430a6270",
-        "twitter": "",
-        "youtube": "https://www.youtube.com/@junedshaikh1201",
-        "portfolio": ""
-      },
-
-      "skills": ["Angular", "React", "JavaScript", "TypeScript"],
-      "programmingLanguages": ["JavaScript", "TypeScript", "C#"],
-      "frameworks": ["Angular", "React", ".NET"],
-      "tools": ["Git", "VS Code", "Docker"],
-
-      "experienceYears": 2.5,
-      "currentCompany": "Nihilent Technologies",
-      "education": "B.Tech Information Technology",
-
-      "certifications": ["Angular Certification", ".NET Certification"],
-      "projects": ["E-commerce App", "Parking System", "Portfolio Website", "Workout Tracker"],
-      "achievements": ["Employee of the Month"],
-      "hobbies": ["Coding", "Traveling", "Gaming", "Reading", "Bike Riding"],
-
       "availabilityForHire": true,
-      "resumeUrl": "",
       "preferredWorkType": "Remote / Hybrid",
-
-      "languagesSpoken": ["English", "Hindi", "Marathi", "German", "Arebic"],
-
-      "createdAt": "2026-02-24"
-
+      "createdAt": "2026-02-27"
+    },
+    "contactInfo": {
+      "email": "sjuneds128@gmail.com",
+      "phone": "+91-8806616157",
+      "location": "India"
+    },
+    "education": {
+      "degree": "B.Tech in Information Technology",
+      "collegeName": "Dr. J. J. Magdum College of Engineering, Jaysingpur",
+      "university": "Shivaji University",
+      "graduationYear": 2023,
+      "gpa": 8.5,
+      "percentage": 85,
+      "achievements": [
+        "Shivaji University 8th Rank Holder"
+      ]
+    },
+    "technicalSkills": {
+      "frontend": [
+        "Angular",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "backend": [
+        ".NET",
+        "C#",
+        "Web API"
+      ],
+      "database": [
+        "SQL Server, Mongodb"
+      ],
+      "tools": [
+        "Git",
+        "VS Code",
+        "Docker"
+      ],
+      "concepts": [
+        "REST APIs",
+        "OOP",
+        "Data Structures",
+        "Responsive Design",
+        "Authentication & Authorization"
+      ],
+      "testing": [
+        "Unit Testing",
+        "xUnit",
+        "Jasmine"
+      ],
+      "apiTools": [
+        "Swagger",
+        "Postman"
+      ],
+      "versionControl": [
+        "Git",
+        "GitHub"
+      ]
+    },
+    "projects": [
+      {
+        "name": "E-commerce Application",
+        "description": "Full-featured shopping platform with authentication, product management and payment integration.",
+        "techStack": [
+          "Angular",
+          ".NET",
+          "SQL Server"
+        ]
+      },
+      {
+        "name": "Parking Management System",
+        "description": "Automated vehicle entry, billing and reporting system.",
+        "techStack": [
+          "Angular",
+          ".NET"
+        ]
+      },
+      {
+        "name": "Workout Tracker",
+        "description": "Track workouts, calories and performance analytics.",
+        "techStack": [
+          ".NET"
+        ]
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Personal developer portfolio website.",
+        "techStack": [
+          "React",
+          "JavaScript"
+        ]
+      }
+    ],
+    "certifications": [
+      "Angular Certification",
+      ".NET Certification",
+      "React Certification"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Communication",
+      "Time Management",
+      "Adaptability"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Hindi",
+      "Marathi",
+      "German",
+      "Arabic"
+    ],
+    "hobbies": [
+      "Coding",
+      "Traveling",
+      "Gaming",
+      "Reading",
+      "Bike Riding"
+    ],
+    "socialLinks": {
+      "github": "https://github.com/junedshaikh12",
+      "linkedin": "https://www.linkedin.com/in/juned-shaikh-b430a6270",
+      "instagram": "https://instagram.com/kaif_juned",
+      "youtube": "https://www.youtube.com/@junedshaikh1201",
+       "codechef":"https://www.codechef.com/users/juned1208",
+      "twitter": ""
     }
-  ]
-}
+  }
+]
