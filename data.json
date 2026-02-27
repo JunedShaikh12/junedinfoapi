@@ -1,6 +1,7 @@
-[
-  {
-    "personalInfo": {
+{
+   "Juned": [
+    {
+       "personalInfo": {
       "id": 1,
       "username": "junedshaikh",
       "fullName": "Juned Shaikh",
@@ -138,5 +139,6 @@
        "codechef":"https://www.codechef.com/users/juned1208",
       "twitter": ""
     }
-  }
-]
+    }
+   ]
+}
